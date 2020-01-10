@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "ali-oss": "^6.1.1",
-    "axios": "^0.16.2",
+    "axios": "^0.19.1",
     "babel-runtime": "^6.26.0",
     "co": "^4.6.0",
     "date-time-picker": "^0.5.3",
